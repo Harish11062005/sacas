@@ -1,0 +1,26 @@
+
+ VISUALIZATION
+
+Analysing The Chart
+
+The Chart Is Clustered Column Chart
+
+Sum Of Quantity By Food Type (Food Details) Food Type
+
+Y Axis= S.Of.Quantity
+
+X Axis= Food Type
+
+INCLUDE
+
+Main Course (6)k
+Snacks (4)k
+Desert (1)k
+Breakfast (1)k
+Beverage (0.6)k
+Main course (0.5) k
+Appertizer (0.4)k
+
+
+
+Beverage is sold between 0-1k which is 0.500k
